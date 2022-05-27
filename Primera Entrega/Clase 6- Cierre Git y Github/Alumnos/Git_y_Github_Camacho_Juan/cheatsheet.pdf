@@ -1,0 +1,2 @@
+Agregar archivo al repositorio: Git add nombre_archivo_directorio o Git add . para agregar todos los archivos
+Commitear: git commit nombre_archivo -m "mensaje del commit"
