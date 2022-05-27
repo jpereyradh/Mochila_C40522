@@ -1,0 +1,3 @@
+1) Linus Torvalds desarrolló Git para generar un sistema de control de versiones distribuido.
+2) Github pertenece a Microsoft para acercarse a la comunidad de software libre y �código abierto.
+3) Sólo se pueden hacer pequeñas modificaciones desde la página de GitHub.
