@@ -1,0 +1,3 @@
+A.Fue desarrollado inicialmente por Linus Torvalds como proyecto de código abierto maduro y con un mantenimiento activo 
+B. Github pertenece actualmente a Microsoft como parte de una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios.
+C. dentro del mismo Github usando la opción Add file, también con GitHub Desktop
