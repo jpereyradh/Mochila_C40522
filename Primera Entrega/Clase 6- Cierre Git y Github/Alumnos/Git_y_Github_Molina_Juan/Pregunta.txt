@@ -1,0 +1,3 @@
+- Lo creo, el mismo creador de linux. La realación que mantenia con la comunidad que desarrollaba kernel se vino abajo y la herramienta dejo de ser gratuita, por tal motivo, la comunidad de linux ideo una manera de aplicar lo aprendido y creo la herramienta llamada git en el año 2005.
+- Github fue comprado por microsoft dado a que este se posiciona como la herramienta mas utilizada para el almacenamiento de repositorios.
+- Existen varias aplicaciones y herramientas que facilitan el manejo de los repositorios fuera de la terminal; entre estas se encuentran los IDES y otras aplicaciones como puede ser sourcetree.
