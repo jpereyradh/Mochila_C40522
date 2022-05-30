@@ -1,0 +1,3 @@
+1) Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvals, el famoso creador de kernel del sistema operativo de Linux, en 2005.
+2)El propietario actual es Microsoft, por la globalización y por tener la comunidad de desarrollo mas grande del planeta.
+3)Si, es posible por medio de la aplicación de escritorio de GitHub.
