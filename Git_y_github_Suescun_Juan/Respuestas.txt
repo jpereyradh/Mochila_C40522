@@ -1,0 +1,7 @@
+A. Linus Torvalds 
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005
+
+B. GitHub fue comprado por Microsoft.
+Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta.
+
+C.La otra manera que hay para utilizar GitHub y es por medio de la interfaz gráfica ya sea por la página web o por la aplicación.
