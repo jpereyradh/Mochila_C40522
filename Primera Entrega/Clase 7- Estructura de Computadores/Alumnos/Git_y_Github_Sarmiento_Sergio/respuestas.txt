@@ -1,0 +1,3 @@
+Intel i3 3230 3,6 GHz 4 nucleos: Matalda
+Ryzen 5 3600 6GHz 6 nucleos: Hermano Mayor 
+Amd a8 9600 3.1GHz 4 nucleos:Marcelo
