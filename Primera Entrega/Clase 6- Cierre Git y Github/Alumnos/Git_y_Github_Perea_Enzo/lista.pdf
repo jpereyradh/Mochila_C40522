@@ -1,0 +1,77 @@
+PARA MOVERNOS ENTRE CARPETAS
+cd "nombre carpeta"
+cd carpeta1/carpeta2/carpeta3
+
+PARA SABER EL ESTADO DE NUESTROS ARCHIVOS
+git status
+
+PARA REGISTRAR UN HISTORIAL DE NUESTROS COMMITS
+git log
+
+PARA SABER QUE ARCHIVOS O CARPETAS TENEMOS DENTRO DE UN DIRECTORIO
+ls
+ls -a (para ver los archivos ocultos)
+
+CREAR O INICIAR UN REPOSITORIO REMOTO
+git init
+
+PARA CONFIGURAR MI USUARIO Y GMAIL EN MI REPOSITORIO LOCAL
+git config user.name "usuario"
+git config user.name (corroborar usuario)
+git config user.email "correoelectronico"
+git config user.email (corroborar imail)
+
+PARA CREAR DIRECTORIOS O CARPETAS 
+mkdir "nombre_de_carpeta"
+
+PARA CREAR ARCHIVOS
+touch "nombre_de_archivo.extension"
+
+PARA ESCRIBIR EN UN ARCHIVO
+nano "nombre_de_archivo.extension"
+
+PARA SUBIR ARCHIVOS AL REPOSITORIO O STAGING AREA
+git add . (para subir todo)
+git add "nombre_de_archivo.extension"
+
+PARA SABER NUESTRO HISTORIAL DE CAMBIOS EN EL PROYECTO
+git commit -m "mensajepuntual"
+
+PARA SUBIR LOS CAMBIOS AL REPOSITORIO REMOTO EN GITHUB
+git push origin main
+
+PARA CLONAR EXACTAMENTE UN REPOSITORIO DE GITHUB
+git clone "URL_del_usuario"
+git remote -v (corroborar sincronizacion)
+
+PARA ACTUALIZAR CONTENIDO DE UN REPOSITORIO DE GITHUB
+git pull origin main
+
+PARA CREAR NUEVA RAMA
+git branch "nombre_rama"
+
+PARA MOVERSE DE UNA RAMA A OTRA (HABIENDO ELIMINADO O GUARDADO CAMBIOS, CONFIRMARLOS CON UN COMMIT)
+git checkout "nombre_rama"
+
+PARA ELIMINAR RAMA
+git branch -d "nombre rama"
+ 
+PARA FORZAR A ELIMINAR UNA RAMA SIN FUSIONARSE CON MAIN 
+git branch -D "nombre_rama"
+
+PARA ENLISTAR LAS RAMAS EXISTENTES
+git branch --list
+
+PARA UNIFICAR UNA RAMA CON LA QUE ESTOY SITUADO
+gir merge "nombre_rama"
+
+PARA SUBIR ARCHIVOS A UNA RAMA 
+git push origin "nombre_rama"
+
+PARA TRAER LOS CAMBIOS ACTUALIZADOS DE UNA RAMA
+git pull origin "nombre_rama"
+
+LIMPIAR CONSOLA
+clear
+
+
