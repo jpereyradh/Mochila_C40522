@@ -1,0 +1,5 @@
+Padlet grupal: https://padlet.com/PedagogiaDH/a1cmljdmlk7dy5zx
+
+1. Matilda usará el procesador AMD Ryzen 5 3600 ya que al contar con mas nucleos, mas hilos, mayor velocidad y una cache L2 mas grande, es ideal para jugar videojuegos.
+2. Marcelo usará el procesador intel i3 3230, el paquete Office 2019 no requiere mucha exigencia para funcionar bien.
+3. El hermano mayor usará el procesador AMD A8 9600 ya que tiene tarjeta grafica integrada y no es necesario contar con una, permite trabajar correctamente con la edicion de videos.
