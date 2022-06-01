@@ -1,0 +1,4 @@
+1- Si, se pueden crear las carpetas del punto 2 en un solo comando. Ubicados en la carpeta "Peliculas" escribir: mkdir Infantiles Accion Terror Comedia Romanticas
+2- Si, se pueden crear los archivos del punto 3 en un solo comando. Ubicados por ej. en la carpeta Infantiles escribir: "touch Intenzamente.txt "El juego del miedo.xls" "Rapido y Furioso.pdf" Titanic.jpg
+3- mkdir Peliculas/Romanticas/Prueba
+4- mkdir ./Accion/Prueba2
