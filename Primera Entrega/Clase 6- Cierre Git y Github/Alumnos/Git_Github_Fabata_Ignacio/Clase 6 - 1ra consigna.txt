@@ -1,0 +1,5 @@
+1. Git fue inventado por el mismo creador del sistema operativo Linux, Linus Torvalds, en 2005. Fue creado para el cambio de la interfaz del usuario luego de que se rompio la relacion con el desarrollador de BitKeeper.
+
+2. Actualmente pertenece a Microsoft, ya que la misma la compro debido a la cantidad de proyectos que aloja Github y la popularidad que esta gano con el tiempo.
+
+3.Si, a traves de la aplicacion para PC.
