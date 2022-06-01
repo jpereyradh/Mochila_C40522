@@ -1,0 +1,5 @@
+1- El sistema de control de version Git fue creado por Linus Torvalds.
+Este fue creado porque ninguno de los sistemas hasta ese momento, cumplia con los requerimientos de Linus.
+2- Github pertenece actualmente a Microsoft.
+La compra, porque habia adoptado una nueva estrategia, basada en el mundo del software libre y abierto.
+3- No, no hay otra forma.

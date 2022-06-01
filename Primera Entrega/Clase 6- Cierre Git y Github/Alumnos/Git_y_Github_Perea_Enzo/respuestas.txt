@@ -1,0 +1,3 @@
+1_ Linus Torvalds fue quien creó Git, por que ninguno de los sisemas hasta ese momento cumplia con los requeriminetos de linux.
+2_ Microsoft es el dueño de Github, debido a una nueva estrategia del mismo, basado en el mundo del software libre y abierto, rapido, potente, y eficiente con sus ramas.
+3_ Contamos ademas con github desktop
