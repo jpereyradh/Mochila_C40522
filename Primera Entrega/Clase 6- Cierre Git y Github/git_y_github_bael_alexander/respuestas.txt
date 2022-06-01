@@ -1,6 +1,6 @@
-a) Git fue inventado por Linus Torvalds, con el proposito de llevar a cabo registro de los cambios de archivos y cordinar el trabajo que varios realicen sobre un mismo archivo.
+a) Git fue inventado por Linus Torvalds, con el proposito de llevar a cabo registro de los cambios de archivos y cordinar el trabajo que varios realicen sobre un mismo archivo. Porque hasta ese momento ninguno de los sistemas cumplia con los requerimientos para trabajar en linux.
 
-b) Github actualmente pertece a Microsoft quien compro el sofeare a sus creadores por 7500 millones de dolares.
+b) Github actualmente pertece a Microsoft quien compro el sofeare a sus creadores por 7500 millones de dolares. Como parte de una estrategia comercial, incursionando asi en el mundo del sofware libre y abierto.
 
 c) Si existe otra forma de trabajar con Github sin usar la terminal, podemos usar la app de escritorio de Github y trabajar con ella para crear repositorios locales de igual menera, realizar commits, guardar cambios, etc.
 Si lo utilizamos de esta manera el trabajo no requiere codigos y se hace mas visual su interaccion. Recomendable para quienes no manejen codigos, aunque el proceso se hace mas lento.
