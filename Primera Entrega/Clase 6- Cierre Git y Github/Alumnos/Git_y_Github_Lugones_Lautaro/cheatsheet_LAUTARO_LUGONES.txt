@@ -1,0 +1,17 @@
+Establecer el usuario y el e-mail
+ git config --global user.name "nombre de usuario"
+ git config --global user.email email@email.com
+
+ Verificar el estado de los archivos/directorios
+ git status (muestra el estado de los archivos en su repositorio)
+
+ Añadir un archivo
+ git add nombre_archivo_directorio (archivo específico)
+ git add . / git add --all (todos los archivos)
+
+ Commitear un archivo/directorio
+ git commit nombre_archivo -m "mensaje del commit"
+
+ Remover un archivo o directorio
+ git rm archivo
+ git rm -r directorio (remueve el directorio y los archivos que contiene)
