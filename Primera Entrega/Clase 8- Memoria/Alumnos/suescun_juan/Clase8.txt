@@ -1,0 +1,34 @@
+Ejercicio grupo 8 (PSP).
+
+God Of War: Chains Of Olympus = 1228.8 MB
+Driver = 491,4 MB
+Need For Speed Carbon = 121 MB
+Burnout Dominator = 682 MB
+MotorStorm Artic Edge = 752 MB
+Midnight Club 3: DUB Edition = 1536 MB
+Crash Tag Team Racing = 834 MB
+Plants vs. Zombies = 2 MB
+Metal Slug Anthology = 663 MB
+Resident Evil 3: Nemesis = 363 MB
+Grand Theft Auto: Vice City Stories = 1228.8 MB
+FIFA 12 = 1239.04 MB
+PES 2013 = 975 MB
+Coded Arms = 49,8 MB
+Street Fighter 3 Alpha Max = 78,2 MB
+
+Espacio total que tenemos = 6144 MB
+
+Juego que se instalarian:
+Plants vs. Zombies = 2 MB
+Coded Arms = 49,8 MB
+Street Fighter 3 Alpha Max = 78,2 MB
+Need For Speed Carbon = 121 MB
+Resident Evil 3: Nemesis = 363 MB
+Driver = 491,4 MB
+Metal Slug Anthology = 663 MB
+Burnout Dominator = 682 MB
+MotorStorm Artic Edge = 752 MB
+Crash Tag Team Racing = 834 MB
+PES 2013 = 975 MB
+
+Total de espacio utilizado: 5011,4 MB
