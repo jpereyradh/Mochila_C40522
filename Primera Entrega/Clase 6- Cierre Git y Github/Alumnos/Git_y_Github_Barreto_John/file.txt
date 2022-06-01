@@ -1,0 +1,15 @@
+¿Quien invento el sistema de control git hub y porque?
+
+Creado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon. Así que decidió crear desde cero su propio sistema de control de 
+versiones con ramas y lo llamó Git. Git es un sistema distinto  a los anteriores porque las 
+personas pueden hacer uso de ramas.
+
+¿A quien pertenece actualmente git y porque?
+El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+¿Hay otra forma que no sea la terminal para trabajar con github?
+
+Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado 
+tenemos una gran variedad de interfaces de usuario con distintas capacidades. En este libro vamos a utilizar Git desde la línea de comandos. 
+La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos de Git - la mayoría de interfaces gráficas de usuario 
+solo implementan una parte de las características de Git por motivos de simplicidad. 
