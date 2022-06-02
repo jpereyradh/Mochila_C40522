@@ -1,0 +1,5 @@
+enlace padlet armado de pc: https://padlet.com/PedagogiaDH/iiu6es73s0f48nf7
+
+1_ Matilda usará el procesador AMD Ryzen 5 3600 ya que el juego tiene unos requerimientos mas altos.
+2_ Marcelo usará el procesador intel i3 3230 ya que el paquete office no tiene tantos requisitos.
+3_ Hermano mayor usará el procesador AMD a8 9600 ya que este trae una grafica integrada
