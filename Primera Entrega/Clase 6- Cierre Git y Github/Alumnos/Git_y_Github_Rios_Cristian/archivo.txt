@@ -1,0 +1,4 @@
+1-El sistema de control de version Git fue inventado por Linus Torvalds, Git fue creado con el proposito de facilitar el desarrollo y el trabajo en equipo a la hora de trabajar en un proyecto.
+2- Github actualmente le pertenece a Microsoft, debido a que esta empresa esta enfocandose en proveer herramientas a los desarrolladores.
+3-  Usando Visual Studio Code
+
