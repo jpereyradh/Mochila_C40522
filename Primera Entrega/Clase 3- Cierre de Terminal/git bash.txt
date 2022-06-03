@@ -1,0 +1,157 @@
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ pwd
+/c/Users/cgiru
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ mkdir DH
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ mkdir ./DH/Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ mkdir ./DH/Peliculas/Infantiles ./DH/Accion ./DH/Terror ./DH/Comedia ./DH/Romanticas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ touch .DH/Peliculas/Infantiles/Intenzamente.txt .DH/Peliculas/Infantiles/"El juego del miedo.xls" .DH/Peliculas/Infantiles/"Rapido y furioso.pdf" .DH/Peliculas/Infantiles/Titanic.jpg
+touch: cannot touch '.DH/Peliculas/Infantiles/Intenzamente.txt': No such file or directory
+touch: cannot touch '.DH/Peliculas/Infantiles/El juego del miedo.xls': No such file or directory
+touch: cannot touch '.DH/Peliculas/Infantiles/Rapido y furioso.pdf': No such file or directory
+touch: cannot touch '.DH/Peliculas/Infantiles/Titanic.jpg': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ touch ./DH/Peliculas/Infantiles/Intenzamente.txt ./DH/Peliculas/Infantiles/"El juego del miedo.xls" ./DH/Peliculas/Infantiles/"Rapido y furioso.pdf" ./DH/Peliculas/Infantiles/Titanic.jpg
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ touch ./DH/Peliculas/Accion/"Smooth criminal.txt" ./DH/Peliculas/Accion/"Diario de una pasion.js" ./DH/Peliculas/Accion/"El hexorcista.xls" ./DH/Peliculas/Accion/Cars.jpg
+touch: cannot touch './DH/Peliculas/Accion/Smooth criminal.txt': No such file or directory
+touch: cannot touch './DH/Peliculas/Accion/Diario de una pasion.js': No such file or directory
+touch: cannot touch './DH/Peliculas/Accion/El hexorcista.xls': No such file or directory
+touch: cannot touch './DH/Peliculas/Accion/Cars.jpg': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Configuración local'@
+ Contacts/
+ Cookies@
+ DH/
+'Datos de programa'@
+ Documents/
+ Downloads/
+'Entorno de red'@
+ Favorites/
+ Impresoras@
+ Informes/
+ IntelGraphicsProfiles/
+ Links/
+'Menú Inicio'@
+ MicrosoftEdgeBackups/
+'Mis documentos'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TM.blf
+ NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{1c2b59c6-c5f5-11eb-bacb-000d3a96488e}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Plantillas@
+ Reciente@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+ ansel/
+ ejercicios/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ cd DH
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+Accion/  Comedia/  Peliculas/  Romanticas/  Terror/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ Accion
+bash: Accion: command not found
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Accion
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ touch "Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" "Cars.jpg"
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ touch ./Terror/"La dama y el bagavundo.png" ./Terror/"Yo antes de ti.xls" ./Terror/"Que paso ayer.pdf" ./Terror/"We will rock you.js"
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ touch ./Comedia/Madagaskar.js ./Comedia/"Orgullo y prejuicio.txt" ./Comedia/IT.xls ./Comedia/"Mision imposible.png"
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ touch ./Romanticas/Pocahontas.jpg ./Romanticas/Annabelle.js ./Romanticas/"Los vengadores.js" ./Romanticas/"La mascara.js"
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+Accion/  Comedia/  Peliculas/  Romanticas/  Terror/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ ls -R
+.:
+Infantiles/
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ pwd
+/c/Users/cgiru/DH/Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+Accion/  Comedia/  Peliculas/  Romanticas/  Terror/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mkdir ./Romanticas/Prueba/Prueba
+mkdir: cannot create directory ‘./Romanticas/Prueba/Prueba’: No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mkdir ./Romanticas/Prueba
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Romanticas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ mkdir ./DH/Accion/Prueba2
+mkdir: cannot create directory ‘./DH/Accion/Prueba2’: No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ mkdir ../Accion/Prueba2
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ ls
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg   Prueba/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Accion
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ ls
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'   Prueba2/  'Smooth criminal.txt'
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ cd ../

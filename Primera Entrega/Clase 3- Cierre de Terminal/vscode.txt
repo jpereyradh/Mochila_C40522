@@ -1,0 +1,273 @@
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Infantiles/"El juego del miedo" ./Terror
+mv: cannot stat './Infantiles/El juego del miedo': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Infantiles/"El juego del miedo.xls" ../Terror
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Infantiles/"Rapido y Furioso" ../Accion
+mv: cannot stat './Infantiles/Rapido y Furioso': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Infantiles/"Rapido y Furioso.pdf" ../Accion
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Infantiles/"Titanic.jpg" ../Romanticas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Accion/"Diario de una pasion.js" ../Romanticas
+mv: cannot stat './Accion/Diario de una pasion.js': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ ls
+Infantiles/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Accion
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ mv ./"Diario de una pasion.js" ../Romanticas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ mv ./"El hexorcista.xls" ../Terror
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ mv ./"Cars.jpg" ../Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Accion
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ Terror
+bash: Terror: command not found
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Terror
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Terror
+$ mv ./"La dama y el bagavundo.png" ../Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Terror
+$ mv ./"Yo antes de ti.xls" ../Romanticas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Terror
+$ mv ./"Que paso ayer.pdf" ../Comedia
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Terror
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Comedia
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Comedia
+$ mv ./Madagaskar.js ../Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Comedia
+$ mv ./"Orgullo y prejuicio.txt" ../Romanticas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Comedia
+$ mv ./IT.xls ../Terror
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Comedia
+$ mv ./"Mision imposible.png" ../Accion
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Comedia
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Romanticas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ mv ./Pocahontas.jpg ../Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ mv ./Anabelle.js ../Terror
+mv: cannot stat './Anabelle.js': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ ls
+ Annabelle.js  'Diario de una pasion.js'  'La mascara.js'  'Los vengadores.js'  'Orgullo y prejuicio.txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ mv ./Annabelle.js ../Terror
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ mv ./"Los vengadores.js" ../Accion
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ mv ./"La mascara.js" ../Comedia
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Romanticas
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+ Accion/  'actividad git bash.txt'   Comedia/   Infantiles   Peliculas/   Romanticas/   Terror/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Accion ./Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Comedia ./Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Romanticas ./Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Terror ./Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+'actividad git bash.txt'   Infantiles   Peliculas/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Infantiles ./Peliculas
+mv: cannot overwrite directory './Peliculas/Infantiles' with non-directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+'actividad git bash.txt'   Infantiles   Peliculas/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls -a
+ ./   ../  'actividad git bash.txt'   Infantiles   Peliculas/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Infantiles/"Intenzamente.txt ./Infantiles/"Intensamente.txt
+mv: missing destination file operand after './Infantiles/Intenzamente.txt ./Infantiles/Intensamente.txt'
+Try 'mv --help' for more information.
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Infantiles/Intenzamente.txt ./Infantiles/Intensamente.txt
+mv: failed to access './Infantiles/Intensamente.txt': Not a directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Intenzamente.txt "Intensamente.txt"
+mv: cannot stat './Intenzamente.txt': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Intenzamente.txt "Intensamente.txt"
+mv: cannot stat './Intenzamente.txt': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Infantiles/Intenzamente.txt "Intensamente.txt"
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Intensamente.txt ./Infantiles/Intensamente.txt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Terror/"La dama y el bagavundo.png" ./Terror/"La dama y el vagabundo.png"
+mv: cannot stat './Terror/La dama y el bagavundo.png': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Peliculas/Terror/"La dama y el bagavundo.png" "La dama y el vagabundo.png"
+mv: cannot stat './Peliculas/Terror/La dama y el bagavundo.png': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Peliculas/Infantiles/"La dama y el bagavundo.png" "La dama y el vagabundo.png"
+mv: cannot stat './Peliculas/Infantiles/La dama y el bagavundo.png': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Peliculas/Infantiles/"La dama y el bagavundo.png" ./Peliculas/Infantiles/"La dama y el vagabundo.png"
+mv: cannot stat './Peliculas/Infantiles/La dama y el bagavundo.png': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Peliculas/Infantiles/"La dama y el bagavundo.png" "La dama y el vagabundo.png"
+mv: cannot stat './Peliculas/Infantiles/La dama y el bagavundo.png': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ touch ./Infantiles/"La dama y el vagabundo.png"
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+'actividad git bash.txt'   Infantiles   Peliculas/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ rv Infantiles
+bash: rv: command not found
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ rm Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+'actividad git bash.txt'   Peliculas/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ rm ./Peliculas/Accion/"Smooth criminal.txt" ./Peliculas/Terror/"We will rocj you.js"
+rm: cannot remove './Peliculas/Terror/We will rocj you.js': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ rm ./Peliculas/Terror/"We will rock you.js"
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+'actividad git bash.txt'   Peliculas/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ touch ./Peliculas/Accion/Prueba2/noBorrar.js
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mv ./Peliculas/Accion/Prueba2/noBorrar.js ./Peliculas/Romanticas/Prueba
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ touch camadax.txt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd Peliculas
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Terror/IT.xls ../Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Terror/IT.xls ./Infantiles
+mv: cannot stat './Terror/IT.xls': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ touch ./Terror/IT.xls
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Terror/IT.xls ../Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ touch ./Terror/IT.xls
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ mv ./Terror/IT.xls ./Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ rm ../DH/camadax.txt
+rm: cannot remove '../DH/camadax.txt': No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ rm ../camadax.txt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ rm ../Infantiles
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ rm ./Romanticas/Prueba
+rm: cannot remove './Romanticas/Prueba': Is a directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$ rm -r ./Romanticas/Prueba
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/Peliculas
+$
