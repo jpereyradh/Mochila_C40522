@@ -1,0 +1,111 @@
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ pwd
+/c/Users/cgiru
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ mkdir DH
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ cd DH
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ mkdir repaso_clase_1y2
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd repaso_clase_1y2
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mkdir historia_de_la_contabilidad
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mkdir que_haremos_hoy
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mkdir servidores
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mkdir interfaces_de_usuario
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mkdir infraestructura
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd repaso_clase_1y2
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd historia_de_la_contabilidad
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_contabilidad
+$ touch repaso.txt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_contabilidad
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd que_haremos_hoy
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/que_haremos_hoy
+$ touch repaso.doc
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/que_haremos_hoy
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd servidores
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/servidores
+$ touch repaso.xls
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/servidores
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd interfaces_de_usuario
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/interfaces_de_usuario
+$ touch repaso.pdf
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/interfaces_de_usuario
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd infraestructura
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/infraestructura
+$ touch repaso.ppt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/infraestructura
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls -R
+.:
+repaso_clase_1y2/
+
+./repaso_clase_1y2:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./repaso_clase_1y2/historia_de_la_contabilidad:
+repaso.txt
+
+./repaso_clase_1y2/infraestructura:
+repaso.ppt
+
+./repaso_clase_1y2/interfaces_de_usuario:
+repaso.pdf
+
+./repaso_clase_1y2/que_haremos_hoy:
+repaso.doc
+
+./repaso_clase_1y2/servidores:
+repaso.xls
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$

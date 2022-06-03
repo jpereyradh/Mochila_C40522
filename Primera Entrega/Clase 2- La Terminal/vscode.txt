@@ -1,0 +1,123 @@
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ pwd
+/c/Users/cgiru
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~
+$ cd DH
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ ls
+repaso_clase_1y2/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH
+$ cd repaso_clase_1y2
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mv que_haremos_hoy software_y_hardware
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ mv infraestructura git_bash_y_vscode
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ ls -r
+software_y_hardware/  servidores/  interfaces_de_usuario/  historia_de_la_informatica/  git_bash_y_vscode/
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd historia_de_la_informatica
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ ls
+repaso.txt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso.txt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ ../
+bash: ../: Is a directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ cd../
+bash: cd../: No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd softare_y_hardware
+bash: cd: softare_y_hardware: No such file or directory
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd software_y_hardware
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/software_y_hardware
+$ ls
+repaso.doc
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/software_y_hardware
+$ nano repaso.doc
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/software_y_hardware
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd git_bash_y_vscode
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/git_bash_y_vscode
+$ ls
+repaso.ppt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/git_bash_y_vscode
+$ nano repaso.ppt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/git_bash_y_vscode
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd historia_de_la_informatica
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ ls
+repaso.txt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ cat repaso.txt
+La historia de la informática se analizó a través del Playground, desde sus inicios con Babbage hasta la considerada primera programadora Ada Lovelace.
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/historia_de_la_informatica
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd software_y_hardware
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/software_y_hardware
+$ ls
+repaso.doc
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/software_y_hardware
+$ cat repaso.doc
+Vimos qué elementos componen el software (aplicaciones, programas, etc.) y el hardware (disco duro, periféricos, placa madre, etc).
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/software_y_hardware
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$ cd git_bash_y_vscode
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/git_bash_y_vscode
+$ ls
+repaso.ppt
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/git_bash_y_vscode
+$ cat repaso.ppt
+Vimos ambas terminales (bash y vscode), sus principales comandos y diferencias con respecto a las interfaces visuales de usuario.
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2/git_bash_y_vscode
+$ cd ../
+
+cgiru@DESKTOP-I3RVT0L MINGW64 ~/DH/repaso_clase_1y2
+$
