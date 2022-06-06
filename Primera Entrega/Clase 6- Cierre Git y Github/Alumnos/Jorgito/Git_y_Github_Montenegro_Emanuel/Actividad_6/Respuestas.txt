@@ -1,0 +1,15 @@
+
+
+
+1. QUIEN INVENTO EL SISTEMA DE CONTROL DE VERSION DE GIT Y PORQUE? 
+
+ su creador fue Linus Torvalds y pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+
+2. A QUIEN PERTENECE ACTUALMENTE GITHUB Y PORQUE?
+
+  La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrollador y nada mas. 
+
+3. HAY OTRO FORMA QUE NO SEA LA TERMINAL PARA TRABAJAR CON GITHUB?
+
+  si existen interfaces graficas en las cuales se puede utilizar github y ellas son, Towee,Fork,GitHub Destock entre otros, asi que existen varias maneras de poder hacerlo todo de manera grafica sin necesidad de utilizar solo la consola.
+
