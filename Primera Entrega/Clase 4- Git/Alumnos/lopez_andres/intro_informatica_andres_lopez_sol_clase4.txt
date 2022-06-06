@@ -1,0 +1,10 @@
+﻿Tarea clase 4
+
+
+
+
+1. Está dentro del repositorio.
+2. Se guardó todo excepto el archivo app.js que está en estado Modified y el directorio db que se encuentra en estado Untracked.
+3. En realidad se confirma o envía al repositorio todo lo que está dentro del directorio ecommerce.
+4. En este punto se regresa a la última versión confirmada dentro del repositorio del proyecto.
+5. Se borró el archivo config.js pero pasó a un estado Untracked porque el comando git commit no se hizo en el working directory.

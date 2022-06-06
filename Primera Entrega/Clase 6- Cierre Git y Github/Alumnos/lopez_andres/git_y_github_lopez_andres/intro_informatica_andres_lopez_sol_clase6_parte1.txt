@@ -1,0 +1,8 @@
+1. Git fue creado por Linus Torvalds para resolver la necesidad de tener el código de una aplicación organizado, especialemente 
+cuando se trata de proyectos colaborativos, entonces pretendía tener un software que le permitera tener cuantas versiones del 
+codigo fuese sin dañar el código principal para probar nuevas funcionalidades, llevando un registro de todas las modificaciones y 
+permitir el trabajo conjunto con otros desarrolladores.
+2. Actualmente lo poseee Microsoft. Su compra se dio porque la compañía está enfocada actualmente en invertir en tecnologías Open 
+Source, lo que atrae a más personas involucradas con el mundo de la tecnología. Esto también permite el desarrollo de mejores 
+comunidades y tecnologías.
+3. Sí, existe Github Desktop. 
