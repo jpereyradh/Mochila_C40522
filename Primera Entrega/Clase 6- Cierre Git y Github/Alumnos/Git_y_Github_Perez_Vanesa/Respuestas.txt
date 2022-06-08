@@ -1,0 +1,5 @@
+1. Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005 fue quien creo Git, el cual es un proyecto rápido, de código abierto el cual presenta una arquitectura distribuida.
+
+2. GitHub pertenece actualmente a Microsoft quien lo compró por la cantidad de 7500 millones de dólares.
+
+3. GitHub desktop aplicación que permite trabajar GitHub sin usar la terminal.
