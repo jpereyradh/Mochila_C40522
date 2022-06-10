@@ -1,0 +1,4 @@
+a) Linus Torvalds fue el creador de GitHub en 2005, el es tambien el creador del kernel del sistema operativo Linux. Lo creo para posibilitar la ramificación 
+y el etiquetado como procesos de primera importancia y las operaciones que afectan a las ramas y las etiquetas (como la fusion o la reversion) tambien se almacenan en el historial de cambios.
+b) GitHub fue comprado por Microsoft en 2018 por 7500 millones de dolares. Microsoft lo compra porque considera que GitHub va a ser el destino para que los desarrolladores aprendan, compartan y trabajen juntos para crear software.
+c) Se puede descargando GitHub Descktop.

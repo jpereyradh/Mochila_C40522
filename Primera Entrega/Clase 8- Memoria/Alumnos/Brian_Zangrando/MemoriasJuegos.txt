@@ -1,0 +1,23 @@
+Juego	Peso	MB	GB
+God Of War: Chains Of Olympus	1,2 GB	 1.228,80 	
+Driver	491,4 MB	 491,40 	 0,48 
+Need For Speed Carbon	121 MB	 121,00 	
+Burnout Dominator	682 MB	 682,00 	 0,67 
+MotorStorm Artic Edge	752 MB	 752,00 	 0,73 
+Midnight Club 3: DUB Edition	1,5 GB	 1.536,00 	
+Crash Tag Team Racing	834 MB	 834,00 	 0,81 
+Plants vs. Zombies	2 MB	 2,00 	 0,00 
+Metal Slug Anthology	663 MB	 663,00 	 0,65 
+Resident Evil 3: Nemesis	363 MB	 363,00 	 0,35 
+Grand Theft Auto: Vice City Stories	1,2 GB	 1.228,80 	 1,20 
+FIFA 12	1,21 GB	 1.239,04 	
+PES 2013	975 MB	 975,00 	 0,95 
+Coded Arms	49,8 MB	 49,80 	 0,05 
+Street Fighter 3 Alpha Max	78,2 MB	 78,20 	 0,08 
+			
+Total		 10.244,04 	 5,98 
+			
+			
+La mayor cantidad de juegos que se pueden instalar son 11			
+Los resaltados en gris fueron los eliminados			
+ 
