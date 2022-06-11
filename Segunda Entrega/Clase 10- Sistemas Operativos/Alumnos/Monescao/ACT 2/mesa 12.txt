@@ -1,0 +1,12 @@
+  OpenSUSE
+
+-OnWorks openSUSE online, un programa comunitario patrocinado por SUSE Linux y otras empresas.
+ Suce incluye programas de instalacion y administracion siendo YaST, que maneja particiones del disco duro, configuracion del sistema, administracion de paquetes, actualizaciones en lina
+configuracion de red y firewall, adminitracion de usuarios entre otros.
+-trae con sigo la WebYasST, una versios interfaz web, que permite configurar ajustes y actializaciones de la maquina OpenSUSE.
+-su motor de administracion de software es el ZYpp, que tiene un solucionador de dependencias y una API de administracion de paquetes.
+  El openSUSE esta dentro de la familia de Linux, por ende es open source y para poder acceder a terminal de comando solo Escribimos consola en el campo que pone search (o búsqueda) y pulsamos enter. 
+Ya está ya tenemos la consola o intérprete de comandos en nuestro Linux.
+En la distribución OpenSuSE la herramienta zypper es la interfaz de línea de comandos para las bibliotecas de gestión del sistema. 
+ Zypper se puede utilizar para instalar, actualizar o quitar software, gestionar los repositorios, realizar consultas entre otras cosas.
+ Ademas Algunos juegos están incluidos en los repositorios oficiales de openSUSE, pero el repositorio de juegos de openSUSE Build Service incluye un buen número más de juegos disponibles
