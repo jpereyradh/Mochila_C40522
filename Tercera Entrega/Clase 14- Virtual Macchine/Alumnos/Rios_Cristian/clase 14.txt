@@ -1,0 +1,38 @@
+Clojure 
+
+compilado
+
+Lo utilizan muchas empresas, grandes y pequeñas, incluidas Amazon, Staples y Walmart.
+Diferentes firmas e instituciones gubernamentales lo usan principalmente para todo 
+lo relacionado con desarrollo Web (APIs y microservicios),IA y desarrollos de gran rendimiento.
+
+Ide pueden ser, intellij + cursive, VSCode + Calva, Atom + proto-repl
+
+x+y=z ; x=4 y=5
+
+
+
+(def x 5)
+(def y 4)
+(def z (+ x y))
+   (println z)
+
+Kotlin
+
+
+Kotlin es un lenguaje de programación de tipado estático y 
+que también puede ser compilado a código fuente de JavaScript.
+
+Kotlin se usa principalmente para desarrollo de aplicaciones para dispositivos android
+
+Ide pueden ser, Intellij IDEA, Eclipse, Atom, SublimeText, Vim
+
+fun main(args: Array<String>) {
+
+    val x: Int = 10
+    val y: Int = 20
+
+    val sum = x + y
+
+    println("The value of z is: $sum")
+}
