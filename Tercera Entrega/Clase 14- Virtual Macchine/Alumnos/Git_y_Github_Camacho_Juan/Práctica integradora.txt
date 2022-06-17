@@ -23,4 +23,4 @@ fun main(args: Array<String>) {
    println("z = " +  (x + y))
 }
 z = 9
-[Execution complete with exit code 0]
+[Execution complete with exit code 0].
