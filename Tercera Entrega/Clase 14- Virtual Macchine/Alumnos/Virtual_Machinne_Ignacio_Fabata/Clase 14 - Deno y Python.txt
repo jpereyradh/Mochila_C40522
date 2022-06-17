@@ -1,0 +1,7 @@
+1. Deno es un lenguaje interpretado y Python interpretados.
+2. Ambos se utilizan mayormente para backend.
+3. Ambos lenguajes se pueden utilizar con VSC. Framework de Deno: TypeScript. Framework de Python: Django.
+4. let x=4;
+   let y=5;
+   let z=x+y;
+   console.log("La suma es de:",z); 
