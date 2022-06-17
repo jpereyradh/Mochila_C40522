@@ -1,0 +1,26 @@
+Clojure:
+1. Clojure es un lenguaje compilado, sin embargo, sigue siendo totalmente dinámico - cada función compatible con clojure se apoya en tiempo de ejecución.
+2. Clojure es un lenguaje de programación dinámico, de propósito general, combinando la accesibilidad y el desarrollo interactivo de un lenguaje de script con una infraestructura eficiente y robusto para la programación multihilo.
+3. Visual srudio Code + Calva, Emacs (con Cinder), Vim/Neovim + fireplace. Clojure puede usar cualquier biblioteca de Java a través de la interoperabilidad de Java. Librerias: Clojure contrib libs, clj-commons, ClojureWerkz. Frameworks: Catacumba, Compojure, Hoplon, Luminis.
+4. Operación matemática:
+(def x 5)
+(def y 4)
+(def z (+ x y))
+   (println z)
+Respuesta: 9 [Execution complete with exit code 0]
+
+
+Kotlin:
+1. Kotlin en un lenguaje de programación de alto nivel, estáticamente tipado, compilado e interpretado
+2. Kotlin puede ser utilizado en cualquier tipo de desarrollo, basado en servidor, web de cliente o Android. Dispone de soporte para otras plataformas como sistemas integrados macOS e iOS.
+3. IntelliJ IDEA, Eclipse, Atom, SublimeText, Vim. Libreria o framework famoso: Anko
+4. Operación matemática:
+}
+fun main(args: Array<String>) {
+   val x: Int = 4
+   val y: Int = 5
+
+   println("z = " +  (x + y))
+}
+z = 9
+[Execution complete with exit code 0]
