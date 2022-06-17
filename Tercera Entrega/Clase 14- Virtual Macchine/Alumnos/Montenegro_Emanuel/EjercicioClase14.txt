@@ -1,0 +1,48 @@
+           EJERCICIO DE CLASE 14
+
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+
+Deno esta basado en ejecucion de interpretado al igual que Python
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje? 
+
+Deno se utiliza para cualquier ambito, programas de consola, servicios web o aplicaciones de backend en general.
+
+¿Con que IDE o editor de texto puede utilizar el lenguaje?
+ 
+Deno se puede utilizar en Visual Studio Code, JetBrains IDEs, Vim/Neovim via plugins
+
+Nombre de una librería o framework famoso del mismo. 
+
+Python se puede utilizar en PyCharm, Kdevelop, SlickEdit. 
+Algunas frameworks de Deno podrian ser, ABC, Ako, Aqua.
+Algunas librerias de Python podrian ser, Matplotlib, TensorFlow, PyTorch
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática: ○ x = 4 ○ y = 5 ○ z = x + y 
+----------------------------------------------------------------------------------------------------------------------
+Sintaxis de Deno:
+let x=4;
+let y=5;
+let z=x+y;
+console.log("La suma es de:",z);
+
+// salida por pantalla//
+
+Output
+Check file:///tmp/main.ts
+La suma es de: 9
+
+[Execution complete with exit code 0]
+
+-----------------------------------------------------------------------------------------------------------------------
+
+sintaxis de Python:
+x, y = 4, 5
+z = (x + y)
+print('La suma es de:', z)
+
+// salida por pantalla//
+Output
+La suma es de: 9
+
+[Execution complete with exit code 0]
