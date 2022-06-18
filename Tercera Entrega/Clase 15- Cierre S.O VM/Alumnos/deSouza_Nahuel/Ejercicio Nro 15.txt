@@ -1,0 +1,8 @@
+1 - ¿Qué tipo de máquina virtual soporta virtualBox?.
+2 - ¿Qué función cumple el hypervisor en la virtualización?
+3 - Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
+a las demás? ¿por qué?
+
+1- Virtualbox soporta las siguientes maquinas: GNU/Linux, Mac OS X, Windows, Genode, OS/2 Warp y Solaris/OpenSolaris
+2- Hypersivor en una virtualizacion es el software que crea y ejecuta la maquina virtual y tambien es el que permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y procesamiento. Es de tipo 1, porque se ejecuta directamente sobre el hardware.
+3- No, porque se ejecutan de manera independiente una maquina de otra, aunque todas esten alojadas en el mismo SO host.
