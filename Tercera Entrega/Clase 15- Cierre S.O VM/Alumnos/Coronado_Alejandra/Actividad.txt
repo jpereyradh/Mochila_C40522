@@ -13,3 +13,5 @@ Un hipervisor, conocido también como monitor de maquinas virtuales, es un proce
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
 
 Las máquinas virtuales dependen de los recursos de host disponibles(CPU y memoria) y el sistema operativo invitado consume dichos recursos. Un problema con la disponibilidad de los recursos o la programación dentro o fuera de la máquina virtual puede hacer que deje de responder. Es posible que la máquina virtual tambien esté bloqueada en recursos no disponibles o girando a 100% de uso de vCPU
+
+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
