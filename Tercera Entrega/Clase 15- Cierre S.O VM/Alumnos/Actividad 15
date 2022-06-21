@@ -1,0 +1,4 @@
+1) ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.Un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos ya que depende de la existencia de un compilador en dicho sistema.
+2) ¿Qué tipo de máquina virtual soporta virtualBox?.VirtualBox sólo sirve para la instalación de máquinas virtuales de procesos.
+3) ¿Qué función cumple el hypervisor en la virtualización? Hyper-V ofrece a los usuarios de Windows la posibilidad de iniciar su propia máquina virtual.
+4) Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta las demás? ¿por qué?Si una máquina virtual se rompe, no debería afectar a las demás porque son independientes.
