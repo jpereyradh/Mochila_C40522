@@ -1,0 +1,11 @@
+1. Cualquier Lenguaje de Programacion puede usarse en un sistema siempre y cuando haya un interprete 
+compilador (segun corresponda el lenguaje en cuestion).
+
+2.Puede ejecutar hasta 3 maquinas virtuales basicas en un mismo host que tenga 4GB.
+Recordando, que hay dos maquinas virtuales las de un proceso y las otras que ofrecen separacion del sistema.
+
+3.Ofrece caracteristicas muy avanzadas y permite incluso la instalacion de maquinas virtuales a discos reales.
+Estos mismos se podrian iniciar desde cualqueir ordenador.
+4. No. A la hora de desarrollar la intalacion de cada maquin, se hizo en una parte diferente, no afectaria
+las otras maquinas instaladas anteriormente.
+
