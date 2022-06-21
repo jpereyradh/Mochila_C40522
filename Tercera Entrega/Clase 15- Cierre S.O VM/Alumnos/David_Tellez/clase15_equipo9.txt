@@ -1,0 +1,4 @@
+1) Un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos porque depende de la existencia de un compilador en dicho sistema.
+2) VirtualBox sólo sirve para la instalación de máquinas virtuales de procesos.
+3) Hyper-V ofrece a los usuarios de Windows la posibilidad de iniciar su propia máquina virtual.
+4) Si una máquina virtual se rompe, no debería afectar a las demás porque son independientes.
