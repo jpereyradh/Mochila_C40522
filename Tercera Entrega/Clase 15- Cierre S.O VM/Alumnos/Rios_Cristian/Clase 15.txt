@@ -1,0 +1,9 @@
+- porque cada sistema operativo puede manejarse bajo variables particulares como la arquitectura
+
+- VMs de sistema
+
+- Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales 
+invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+- En general no, pues los recursos que usa estan aislados, sin embargo si estan conectadas a una 
+red, pueden ser afectadas por ciertos virus
