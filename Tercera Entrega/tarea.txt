@@ -1,2 +1,0 @@
--Porque un lenguaje ded programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende  de 2 cosas, de la arquitectura del procesador y la interpretacion que le de el sistema operativo. 
-
