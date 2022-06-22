@@ -1,0 +1,8 @@
+- ¿Por qu un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Por defecto, algunos lenguajes de programación están diseñados para sistemas operativos específicos
+- ¿Qué tipo de máquinavirtual soporta virtualBox?
+ES una máquina virtual open source, cuyo dueño es oracle
+- ¿Qué función cumple el hypervisor en la virtualización?
+Permite que el ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos
+- Si tengo más de una máquina virtual instalada, y una se rompe ¿ESto afecta a las demás? ¿Por qué?
+No, porque todas se alohan en partes diferentes de la memoria y tienen recursos diferentes
