@@ -1,0 +1,3 @@
+IP Pública: 181.58.38.172   CLASE B
+IP privada: 192.168.0.7  CLASE C
+MAC: AC-D1-B8-C5-50-6B  Hon Hai Precision Ind. Co.,Ltd.
