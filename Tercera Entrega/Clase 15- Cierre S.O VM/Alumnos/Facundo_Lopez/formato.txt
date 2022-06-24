@@ -1,0 +1,7 @@
+1. Por la compatibilidad.
+
+2. Tiene versiones para Windows, Linux, Macintosh.
+
+3. Es el proceso para ejecutar las maquinas virtuales.
+
+4. No se rompen debido al aislamiento que posee cada contenedor de la MV.
