@@ -1,0 +1,12 @@
+-ip publica: 96.47.230.68 (Clase A)
+-ip privada: Dirección IPv6 local. . . : fe80::845c:aa5c:6316:8e2d%12
+            Dirección IPv4. . . . . . : 192.168.0.161 (CLASE C)
+-Mascara de subred: 192.168.0.1 (clase C)
+-Direccion MAC: 4C-77-CB-4E-6E-C5 (Intel Corporate)
+
+¿ Qué información puedo obtener de la dirección MAC?
+La dirección MAC es un identificador único que los fabricantes asignan a una tarjeta o dispositivo de red. 
+También es conocida como dirección física y está formada por 48 bits, representados por dígitos hexadecimales. 
+Cada dirección MAC es única a nivel mundial y, en teoría, son fijas para cada dispositivo.
+
+La placa de red es (Intel Corporate).
