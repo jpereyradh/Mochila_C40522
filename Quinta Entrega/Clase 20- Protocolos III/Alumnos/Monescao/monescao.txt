@@ -1,0 +1,27 @@
+-¿Las ip públicas son las mismas? ¿por qué?
+No son las mismas. cada navegador  genera una ip diferente. 
+
+-¿Sin utilizar la VPN puedes ver el siguiente video? Ahora actívala e intenta 
+verlo, ¿qué es lo que sucedió?¿Por qué?
+Sí, pero se demora mucho en cargar la página; al inicio se ve una pantalla en 
+blanco. Además, en Brave sale un aviso en YouTube que dice: El Video no está 
+disponible y en Opera si lo reproduce. 
+
+-Utilizando Tor ¿pudimos localizar la IP?
+Sí, se habia generado una nueva IP
+
+-¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede 
+esto?
+Opera: Descarga 1.64, Subida 11.35
+Brave: Descarga 4.41, Subida 4.83
+al concectarse en servidores diferentes puede que el trafico de datos sea mas lento, cuando hicimos el test desde Opera se conectó a un 
+servidor de Estados Unidos; para el caso de Brave, se conectó a un servidor 
+de Ghana.
+-¿Qué significa el valor del ping?
+Es el tiempo se demora en conectarse la conexión local con un servidor 
+remoto
+
+-El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué?
+Brave: 450ms, Opera: 120ms.
+ El ping puede variar por el ancho de banda del internet, la ubicación 
+geográfica o la calidad de quien ofrece el servicio.
