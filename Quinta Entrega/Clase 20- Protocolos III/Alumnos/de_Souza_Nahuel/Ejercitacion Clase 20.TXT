@@ -1,0 +1,29 @@
+Mi ip publica: Localizada en Argentina / Proveedor Wicorp SA 
+Mi ip publica VPN Opera: Localizada en United Stated / Proveedor de internet Opera Mini Proxy / 77.111.246.40
+Mi ip publica Tor: Localizacion anonima / Proveedor de internet Private Layer INC / 81.17.18.61
+
+1. ¿Las ip públicas son las mismas? ¿por qué?
+2. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, 
+¿que es lo que sucedió?¿Por qué?
+3. Utilizando Tor ¿pudimos localizar la IP ? 
+
+1. Las de Tor no, la ip de Opera si. Tenemos la misma ip en opera, porque el navegador utiliza el mismo servidor y canal de vpn.
+2. Sin VPN no puedo visualizar el video porque esta bloqueado para mi pais. En la red Tor tampoco puedo visualizarlo por el mismo motivo posiblemente la VPN estaba ubicadae en un pais con restriccion al video.
+Con opera si pude visualizarlo, debido a que para la localizacion de EEUU aparentemente no esta bloqueado el contenido.
+3. No, debido a las tantas capaz de nodos que hay entre la solicitud de ip y la respuesta del servidor.
+
+A. ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+B. ¿Que significa el valor del ping?
+C. El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+A. 
+24MB Download 4.2MB Upload Sin Vpn 
+26MB Download 4.4MB Upload VPN Opera
+10.3 Download 4.6MB Tor
+No son iguales, aunque si similares con VPN y sin VPN, con Tor directamente no. Por la cantidad de servidores que pasa mi solicitud y respuesta por parte del servidor del test.
+
+B.
+Valor ping es el tiempo que tarda en transmitirse la informacion dentro de la red, lo que uno tarda en recibir un paquete del servidor.
+
+C.
+Si, varia, por el mismo motivo que en las anteriores,  por la conexion tan indirecta entre nosotros y el servidor que provee de la respuesta.
