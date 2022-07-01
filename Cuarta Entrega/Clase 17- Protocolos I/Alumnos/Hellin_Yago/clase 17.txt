@@ -1,0 +1,2 @@
+1- Mi IP es "Clase C".
+2- La marca de mi placa de red es: GIGA-BYTE TECHNOLOGY CO.,LTD. según MacVendors.
