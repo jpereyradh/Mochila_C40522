@@ -1,0 +1,9 @@
+GO
+1) El tipo de ejecución es compilado y de tipado estático.
+2) Sirve para: crear scripts para el sistema, backend /APIs RESTful y Sockets.
+3) Se puede ejecutar con cualquier editor y un frameworks famoso es gin.
+
+C++
+1) El tipo de ejecución es compilado.
+2) Se utiliza para desarrollar juegos, control de hardware, para servicio de redes, sistemas operativos, compiladores, etc.
+3) Se puede utilizar con Visual, Atom. Una librería famosa es: iostream, cmath, etc.
