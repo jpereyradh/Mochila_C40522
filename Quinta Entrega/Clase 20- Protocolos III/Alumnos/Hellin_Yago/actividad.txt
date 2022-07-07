@@ -1,0 +1,14 @@
+1) Mi IP es 179.41.144.112 (sin VPN y sin TOR).
+2) Mi IP es 78.111.235.40 (Opera con VPN).
+3) Mi IP es 192.232.212.101 (TOR con VPN).
+4) Las IP públicas son diferentes, porque están mediadas por VPN, TOR y sus variantes.
+5) Sin utilizar la VPN no se puede ver el video, porque el mismo no está disponible para Argentina.
+6) Al utilizar el VPN, se recurre a la IP de otro país y por lo tanto se puede acceder.
+7) Sin VPN: 300mb de descarga, 5 de ping.
+   Con VPN en Operaa: 15mb de descarga, 211 de ping.
+   Tor con VPN: 12mb de descarga, 457 ping.
+8) Las velocidades son diferentes por las mediaciones del VPN y Tor con VPN.
+9) El ping es una unidad de medida que sirve para medir la latencia.
+10) El ping aumenta progresivamente con VPN y con Tor+VPN porque no sólo podemos recibimos menos paquetes de datos, sino que lo hacemos en una mayor cantidad de tiempo como consecuencia del aumento de servidores o intermediarios involucrados.
+
+Equipo 2: clase 20
