@@ -1,0 +1,5 @@
+1 _ Las ip no son iguales porque estamos conectados aredes diferentes
+2_ El video solo esta disponible en un lugar determinado
+3_ Tor tiene una ip descentralizada
+4_ Las velocidades son distintas, siendo Tor una de las mas rapidas y la mas lenta la vpn gratuita
+5_ El ping es el tiempo exacto que demora un paquete de datos en ser enviado de un dispositivo a otro, se mide en milisegundo Básicamente, cuanto menor es la cantidad de pings, más rápida es la conexión.
